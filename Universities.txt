@@ -1,0 +1,92 @@
+University of Oxford
+University of Cambridge
+Imperial College London
+University of Edinburgh
+University of Manchester
+University of Warwick
+University College London (UCL)
+King's College London
+University of Bristol
+University of Glasgow
+University of Leeds
+University of Southampton
+University of Nottingham
+University of Sheffield
+University of Birmingham
+University of Sussex
+University of York
+University of St Andrews
+University of Durham
+University of Liverpool
+University of Newcastle
+University of East Anglia (UEA)
+University of Bath
+Lancaster University
+University of Essex
+University of Reading
+University of Leicester
+University of Kent
+University of Dundee
+University of Aberdeen
+Queen Mary University of London
+University of Hull
+University of Exeter
+University of Strathclyde
+University of Surrey
+University of Brighton
+University of Portsmouth
+University of Bradford
+University of Glasgow Caledonian
+University of Westminster
+University of Stirling
+University of Hertfordshire
+University of Huddersfield
+University of Winchester
+Glasgow School of Art
+Liverpool John Moores University
+University of the Arts London
+University of Salford
+University of Central Lancashire (UCLan)
+University of Gloucestershire
+Royal Holloway, University of London
+University of Plymouth
+University of South Wales
+University of Chester
+Bournemouth University
+University of Roehampton
+Coventry University
+Sheffield Hallam University
+Manchester Metropolitan University
+Leeds Beckett University
+University of Derby
+University of West London
+University of Bedfordshire
+Middlesex University
+University of Brighton and Sussex Medical School
+Aston University
+De Montfort University
+University of Chichester
+Bath Spa University
+University of Cumbria
+Northumbria University
+University of Worcester
+University of Sunderland
+University of Bolton
+University of Buckingham
+Falmouth University
+University of Greenwich
+London South Bank University
+Birmingham City University
+Oxford Brookes University
+University of Cheltenham and Gloucester
+University of Hertfordshire (Hatfield College of Technology)
+University of the West of Scotland
+Anglia Ruskin University
+Cardiff Metropolitan University
+University of East London
+Glyndwr University
+University of Hertfordshire (Luton College of Higher Education)
+University of the Highlands and Islands
+University of St Mark and St John
+University of Wales, Trinity Saint David
+University of Winchester (King Alfred's College)
