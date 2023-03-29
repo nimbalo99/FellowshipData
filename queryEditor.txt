@@ -1,0 +1,31 @@
+LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/nimbalo99/FellowshipData/master/names.csv" AS row
+MERGE (p:Person {name: row.name, twitterProfile: COALESCE(row.twitter, ''), graduationYear: toInteger(row.graduationYear), instagramProfile: COALESCE(row.instagram, ''), facebookProfile: COALESCE(row.facebook, ''), linkedinProfile: COALESCE(row.linkedin, '')})
+
+FOREACH (hobby IN CASE WHEN row.hobby IS NOT NULL THEN split(row.hobby, ",") ELSE [] END |
+  MERGE (h:Hobby {name: trim(hobby)})
+  MERGE (p)-[:ENJOYS]->(h)
+)
+FOREACH (language IN CASE WHEN row.language IS NOT NULL THEN split(row.language, ",") ELSE [] END |
+  MERGE (l:Language {name: trim(language)})
+  MERGE (p)-[:SPEAKS]->(l)
+)
+FOREACH (country IN CASE WHEN row.country IS NOT NULL THEN split(row.country, ",") ELSE [] END |
+  MERGE (c:Country {name: trim(country)})
+  MERGE (p)-[:IS_FROM]->(c)  
+)
+MERGE (church:Church {name: row.church})
+MERGE (p)-[:ATTENDS]->(church)
+MERGE (r:RelationshipStatus {name: row.relationshipStatus})
+MERGE (p)-[:IDENTIFIES_AS]->(r)
+
+FOREACH (university IN CASE WHEN row.university IS NOT NULL THEN [1] ELSE [] END | 
+MERGE (u:University {name: row.university})
+MERGE (p)-[:ATTENDED]->(u)
+ )
+
+MERGE (i:Industry {name: row.industry})
+MERGE (p)-[:WORKS_IN]->(i)
+MERGE (j:JobTitle {name: row.jobTitle})
+MERGE (p)-[:WORKS_AS]->(j)
+MERGE (per:PersonalityType {name: row.personality})
+MERGE (p)-[:HAS_PERSONALITY]->(per)
