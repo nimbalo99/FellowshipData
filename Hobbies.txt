@@ -1,49 +1,212 @@
 Reading
 Writing
-Painting
 Drawing
-Photography
-Cooking
-Baking
-Gardening
-Playing an instrument
-Singing
-Dancing
-Hiking
-Camping
-Fishing
-Hunting
-Traveling
-Learning a new language
+Painting
+Playing video games
+Playing board games
+Playing card games
 Playing sports
 Watching movies
+Watching TV shows
 Listening to music
-Attending concerts
-Volunteering
+Singing
+Dancing
+Acting
+Cooking
+Baking
+Eating out
+Trying new foods
+Traveling
+Hiking
+Camping
+Backpacking
+Fishing
+Hunting
+Swimming
+Surfing
+Boating
+Sailing
+Kayaking
+Canoeing
+Rafting
+Scuba diving
+Snorkeling
+Rock climbing
+Mountain climbing
+Bouldering
+Gardening
+Farming
+Raising livestock
 Knitting
-Crocheting
 Sewing
+Crocheting
+Quilting
 Woodworking
 Metalworking
+Jewelry making
 Pottery
-Collecting stamps
-Collecting coins
-Collecting antiques
-Playing video games
-Board games
-Card games
-Puzzles
-Sudoku
-Crossword puzzles
-Chess
-Checkers
-Backgammon
-Bingo
-Karaoke
-Jigsaw puzzles
-Model building
-Radio-controlled model vehicles
-Amateur astronomy
-Coin collecting
-Stamp collecting
-Rock collecting
+Glassblowing
+Stained glass making
+Photography
+Videography
+Editing videos
+Editing photos
+Graphic design
+Web design
+Coding
+Programming
+Building websites
+Building apps
+Playing musical instruments
+Solving puzzles
+Playing chess
+Learning languages
+Teaching languages
+Volunteering
+Charity work
+Fundraising
+Community service
+Mentoring
+Tutoring
+Teaching
+Learning
+Studying
+Researching
+Writing poetry
+Writing fiction
+Writing non-fiction
+Journaling
+Blogging
+Social media
+Networking
+Making new friends
+Building relationships
+Maintaining relationships
+Going on dates
+Finding love
+Wedding planning
+Party planning
+Event planning
+Hosting parties
+Attending parties
+Sightseeing
+Museum visiting
+Art gallery visiting
+Attending concerts
+Attending festivals
+Attending fairs
+Attending conventions
+Attending trade shows
+Attending seminars
+Attending workshops
+Attending classes
+Taking online courses
+Learning new skills
+Improving existing skills
+Exercising
+Going to the gym
+Running
+Jogging
+Cycling
+Yoga
+Pilates
+Meditation
+Relaxing
+Spa treatments
+Massage
+Acupuncture
+Chiropractic
+Naturopathic
+Martial arts
+Boxing
+Wrestling
+Jiu-jitsu
+Karate
+Tae kwon do
+Aikido
+Skiing
+Snowboarding
+Ice skating
+Roller skating
+Rollerblading
+Playing with pets
+Training pets
+Taking care of pets
+Adopting pets
+Collecting items
+Antique hunting
+Thrift store shopping
+Garage sale shopping
+Flea market shopping
+Estate sale shopping
+Online shopping
+Window shopping
+Creating art
+Selling art
+Collecting art
+Watching sports
+Playing trivia
+Reading news
+Watching news
+Political activism
+Environmentalism
+Advocacy
+Protesting
+Demonstrating
+Attending rallies
+Attending marches
+Attending protests
+Activism
+Fashion
+Makeup
+Hair styling
+Personal grooming
+Self-improvement
+Self-care
+Spirituality
+Religion
+Philosophy
+History
+Geography
+Science
+Technology
+Mathematics
+Engineering
+Medicine
+Law
+Business
+Finance
+Investing
+Real estate
+Stock trading
+Cryptocurrency
+Gaming
+Cosplay
+Comic books
+Anime
+Manga
+Cartoons
+Animated movies
+Sci-fi movies
+Fantasy movies
+Horror movies
+Romantic movies
+Dramas
+Comedies
+Reality TV shows
+Talent shows
+Game shows
+Talk shows
+Late night shows
+Daytime shows
+Soap operas
+Docuseries
+True crime
+Crime dramas
+Medical dramas
+Legal dramas
+Sitcoms
+Animated TV shows
+Cooking shows
+Home improvement shows
+Travel shows
