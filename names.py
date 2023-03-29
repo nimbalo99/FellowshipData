@@ -215,7 +215,7 @@ with open('ukChurches.txt', 'r') as c:
 with open("names.csv", "a", newline="") as f:
     writer = csv.writer(f)
 
-    for i in range(500):
+    for i in range(5000):
         writer.writerow([fake.first_name() + " " + fake.last_name(),
                          random.choice(churchLines).strip(),
                          random.choice(countrySampleStrings).strip(),
